@@ -1,0 +1,13 @@
+{
+  "name": "Traveler",
+  "travel_style": [],
+  "likes": [
+    "cozy cafes"
+  ],
+  "dislikes": [
+    "crowds"
+  ],
+  "budget": "low",
+  "pace": "slow",
+  "visited_places": []
+}

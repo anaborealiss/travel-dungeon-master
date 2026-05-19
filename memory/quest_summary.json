@@ -1,0 +1,12 @@
+{
+  "total_quests": 1,
+  "common_sources": [
+    "data/prague.md",
+    "data/split.md",
+    "data/budapest.md"
+  ],
+  "common_skills": [],
+  "recent_questions": [
+    "Plan me a cozy day in Prague"
+  ]
+}

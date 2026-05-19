@@ -1,0 +1,12 @@
+[
+  {
+    "time": "2026-05-19T17:12:28",
+    "question": "Plan me a cozy day in Prague",
+    "answer": "Brave Traveler, seeking a cozy day in Prague, I see. Given your fondness for cozy cafes and aversion to crowds, I've crafted a relaxing itinerary for you.\n\nBegin your day in the calm neighborhood of Vinohrady, where you can stroll through the parks and residential streets, taking in the local atmosp",
+    "sources": [
+      "data/prague.md",
+      "data/split.md",
+      "data/budapest.md"
+    ]
+  }
+]
