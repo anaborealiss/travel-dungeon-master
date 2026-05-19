@@ -1,12 +1,22 @@
 {
-  "total_quests": 1,
+  "total_quests": 5,
   "common_sources": [
     "data/prague.md",
     "data/split.md",
+    "data/warsaw.md",
     "data/budapest.md"
   ],
-  "common_skills": [],
+  "common_skills": [
+    "cozy_travel",
+    "avoid_crowds",
+    "slow_pace",
+    "budget_guard"
+  ],
   "recent_questions": [
-    "Plan me a cozy day in Prague"
+    "Plan me a cozy day in Prague",
+    "exit",
+    "Plan me a coxu day in Prague without crowds",
+    "Plan me a cozy day in Prague without crowds",
+    "Plan me a cozy day in Prague without crowds"
   ]
 }

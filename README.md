@@ -133,7 +133,7 @@ In this demo, `/trace` first shows the IR process: query words, retrieved docume
 ## Deliverables
 
 - GitHub repository: https://github.com/anaborealiss/travel-dungeon-master
-- Video demo: TODO
+- Video demo: https://drive.google.com/file/d/1uNFhjvI7syOmYLrvtDdwvhBULsFyGG4q/view?usp=sharing
 - Report: `report/report.md`
 
 ## Limitations

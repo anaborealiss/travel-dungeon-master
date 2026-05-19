@@ -8,5 +8,65 @@
       "data/split.md",
       "data/budapest.md"
     ]
+  },
+  {
+    "time": "2026-05-19T18:44:34",
+    "question": "exit",
+    "answer": "Brave Traveler, it seems your journey has come to an end. May the memories of your cozy adventures remain with you. As you exit, remember to take your time and cherish the calm moments. \n\nIf you ever wish to embark on a new quest, don't hesitate to reach out. Until then, may your path be gentle and ",
+    "sources": [],
+    "skills": [
+      "cozy_travel",
+      "avoid_crowds",
+      "slow_pace",
+      "budget_guard"
+    ]
+  },
+  {
+    "time": "2026-05-19T18:46:11",
+    "question": "Plan me a coxu day in Prague without crowds",
+    "answer": "Brave Traveler, seeking a cozy day in Prague without the hustle and bustle of crowds, I see. Given your fondness for cozy cafes and aversion to crowds, I've crafted a peaceful itinerary for you.\n\nBegin your day in the calm neighborhood of Vinohrady, where you can stroll through the parks and residen",
+    "sources": [
+      "data/prague.md",
+      "data/warsaw.md",
+      "data/split.md"
+    ],
+    "skills": [
+      "cozy_travel",
+      "avoid_crowds",
+      "slow_pace",
+      "budget_guard"
+    ]
+  },
+  {
+    "time": "2026-05-19T18:48:02",
+    "question": "Plan me a cozy day in Prague without crowds",
+    "answer": "Brave Traveler, seeking a cozy day in Prague without the hustle and bustle of crowds, I see. Given your fondness for cozy cafes and aversion to crowds, I've crafted a peaceful itinerary for you.\n\nBegin your day in the calm neighborhood of Vinohrady, where you can stroll through the parks and residen",
+    "sources": [
+      "data/prague.md",
+      "data/warsaw.md",
+      "data/split.md"
+    ],
+    "skills": [
+      "cozy_travel",
+      "avoid_crowds",
+      "slow_pace",
+      "budget_guard"
+    ]
+  },
+  {
+    "time": "2026-05-19T18:50:10",
+    "question": "Plan me a cozy day in Prague without crowds",
+    "answer": "Brave Traveler, seeking a cozy day in Prague without the hustle and bustle of crowds, I see. Given your fondness for cozy cafes and aversion to crowds, I've crafted a peaceful itinerary for you.\n\nBegin your day in the calm neighborhood of Vinohrady, where you can stroll through the parks and residen",
+    "sources": [
+      "data/prague.md",
+      "data/warsaw.md",
+      "data/split.md"
+    ],
+    "skills": [
+      "cozy_travel",
+      "avoid_crowds",
+      "slow_pace",
+      "budget_guard"
+    ]
   }
 ]
