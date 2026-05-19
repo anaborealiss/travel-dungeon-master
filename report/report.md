@@ -2,7 +2,7 @@
 
 ## Links
 
-GitHub repository: TODO
+GitHub repository: https://github.com/anaborealiss/travel-dungeon-master
 
 Video demo: TODO
 
